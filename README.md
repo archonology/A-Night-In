@@ -1,5 +1,9 @@
 # A-Night-In
 
+## Deployed Sites
+
+Deployed Site: https://dhoffman03.github.io/A-Night-In
+
 ## Description
 
 - We wanted to build a site where searching for ideas for a night in would be fun and more focused than doing numerous searches in different browser windows for food, drinks, and entertainment. 
@@ -57,14 +61,9 @@ The user would be directed to the homepage where they can decide to continue and
 
 ![movie genre picked and loads 5 movies on screen](assests/images/movies-load.png)
 
-## Deployed Sites
-
-Deployed Site: https://dhoffman03.github.io/A-Night-In/
-GitHub Repo: https://github.com/dhoffman03/A-Night-In
-
 ## Credits
 
-Thank you everyone in Group 7!!
+Thank you Gia and Dymond! It was an honor to code with you both.  
 
 [Dymond Hoffman](https://github.com/dhoffman03)
 [Reed Meher](https://github.com/archonology)
