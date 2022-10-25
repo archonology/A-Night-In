@@ -59,7 +59,7 @@
         </select>
         <br />
         <br />
-        <button id="food-btn" class="btn p-2 mx-8 rounded-lg w-9/12 custom-btn">
+        <button id="food-btn" onclick="openTab(event, 'food')" class="btn p-2 mx-8 rounded-lg w-9/12 custom-btn">
           Search
         </button>
       </form>
@@ -80,7 +80,7 @@
           <option value="alcohol-free">Alcohol-free</option>
         </select> -->
         <!-- <label for="drink-search">Pick Style</label> -->
-        <button id="drink-btn" class="btn p-2 mx-8 rounded-lg w-9/12 custom-btn">
+        <button id="drink-btn" onclick="openTab(event, 'drinks')" class="btn p-2 mx-8 rounded-lg w-9/12 custom-btn" >
           Search
         </button>
       </form>
@@ -105,7 +105,7 @@
         </select>
         <br />
         <br />
-        <button id="movie-btn" class="btn p-2 mx-8 rounded-lg w-9/12 custom-btn">
+        <button id="movie-btn" class="btn p-2 mx-8 rounded-lg w-9/12 custom-btn" onclick="openTab(event, 'movies')">
           Search
         </button>
       </form>
@@ -139,9 +139,6 @@
         <button class="save-recipe rounded-md p-2 mt-2 invisible" id="food-save">Save Recipe</button>
         <br>
       </div>
-        <br>
-        <br>
-        <br>
     </div>
 
       <!-- drink recipe results -->
